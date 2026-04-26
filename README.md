@@ -193,8 +193,8 @@ The model was evaluated on the held-out test set:
 ### Step 1 — Clone or download the project
 
 ```bash
-git clone https://github.com/your-username/potato-disease-detection.git
-cd potato-disease-detection
+git clone https://github.com/VPPranav/Potato_Leaf_Disease_Detection_CNN_Internship_Project.git
+cd Potato_Leaf_Disease_Detection_CNN_Internship_Project
 ```
 
 ### Step 2 — Create a virtual environment (recommended)
