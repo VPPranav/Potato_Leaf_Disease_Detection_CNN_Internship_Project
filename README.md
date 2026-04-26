@@ -1,6 +1,6 @@
 # 🥔 Potato Leaf Disease Detection System
 
-> An AI-powered web application that detects potato leaf diseases from images using a Convolutional Neural Network (CNN), built with TensorFlow and deployed via Streamlit.
+> A custom built web application that detects potato leaf diseases from images using a Convolutional Neural Network (CNN), built with TensorFlow and deployed via Streamlit.
 
 **Developed by Pranav V P · Internship Project 2026**
 
@@ -57,6 +57,10 @@ Early and Late Blight together are responsible for significant annual crop losse
 ---
 
 ## 🚀 Live Demo
+
+Deployed domain : 
+
+`https://potato-leaf-disease-detection-vp-07.streamlit.app`
 
 To run locally:
 
